@@ -1,3 +1,8 @@
+0.1.5 / 2015-11-12
+==================
+
+ * replaced msgpack with JSON.stringify / parse to fix buffer issues with current redis
+ * updated dependencies
 
 0.1.4 / 2014-11-25
 ==================

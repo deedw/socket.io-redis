@@ -1,33 +1,11 @@
+1.0.0 / 2016-01-29
+==================
+  * merged 1.0.0 changes from socketio
+
 0.1.5 / 2015-11-12
 ==================
 
- * replaced msgpack with JSON.stringify / parse to fix buffer issues with current redis
- * updated dependencies
+  * forked from socketio
+  * replaced msgpack with JSON.stringify / parse to fix buffer issues with current redis
+  * updated dependencies
 
-0.1.4 / 2014-11-25
-==================
-
- * increased socket.io-adapter version to 0.3.1
- * syntax
- * readme: Update badges
- * added Makefile
-
-0.1.3 / 2014-05-30
-==================
-
- * package: bump `socket.io-adapter`
-
-0.1.2 / 2014-05-17
-==================
-
- * check for default namespace before ignoring one
-
-0.1.1 / 2014-03-18
-==================
-
- * ignore different namespace
-
-0.1.0 / 2014-03-12
-==================
-
- * initial release
